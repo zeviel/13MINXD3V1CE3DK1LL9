@@ -1,4 +1,4 @@
-# AminoDeviceIdKilla
+# 13MINXD3V1CE3DK1LL9
 deviceId generator for amino that starts with 42
 
 ## Termux
@@ -7,7 +7,7 @@ deviceId generator for amino that starts with 42
 - apt upgrade -y
 - pkg install python
 - pip install progress
-- git clone https://github.com/deluvsushi/AminoDeviceIdKilla
-- cd AminoDeviceIdKilla
-- python AminoDeviceIdKilla.py
+- git clone https://github.com/deluvsushi/13MINXD3V1CE3DK1LL9
+- cd 13MINXD3V1CE3DK1LL9
+- python 13MINXD3V1CE3DK1LL9.py
 ```
