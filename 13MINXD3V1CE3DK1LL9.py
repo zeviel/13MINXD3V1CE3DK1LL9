@@ -2,8 +2,8 @@ from hmac import new
 from os import urandom
 from hashlib import sha1
 from progress.bar import IncrementalBar
-print("""Script by deluvsushi
-Github : https://github.com/deluvsushi
+print("""Script by zeviel
+Github : https://github.com/zeviel
 ╱╭╮╭━━━┳━┳━┳━━┳━┳┳╮╭┳━━┳━━━┳╮╱╭╮╭┳━┳━┳━━━┳━━┳┳┳┳╮╭╮╭━━━╮
 ╭╯┃┃╭━╮┃┃┃┃┣┃┃┫┃┃┣╮╭┻╮╮┃╭━╮┃╰┳╯┣╯┃╭┫┳┫╭━╮┣╮╮┃╭╯┃┃┃┃┃╭━╮┃
 ╰╮┃╰╯╭╯┃┃┃┃┣┃┃┫┃┃┣╯╰┳┻╯┣╯╭╯┣╮┃╭┻╮┃╰┫┻╋╯╭╯┣┻╯┃╰╮┃╰┫╰┫╰━╯┃
